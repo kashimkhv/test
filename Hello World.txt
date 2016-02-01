@@ -1,5 +1,6 @@
-Print ("Hello World")
-Print ("Привет Мир")
-Есть собака - кликни мир
-Тест
-Print ("Hi")
+Print ("Hello World");
+Print ("Привет Мир");
+Print ("Есть собака - кликни мир");
+Print ("Тест");
+Print ("Hi");
+Print ("Что такое осень?");
