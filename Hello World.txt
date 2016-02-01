@@ -2,3 +2,4 @@ Print ("Hello World")
 Print ("Привет Мир")
 Есть собака - кликни мир
 Тест
+Print ("Hi")
